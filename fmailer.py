@@ -5,7 +5,6 @@ from os import system
 from time import sleep
 
 ## ORIGINAL SCRIPT BY GREEN HORN HACKER
-FOLLOW ME ON INSTAGRAM AND YOUTUBE(GREENHORNHACKER)
 
 try:
     import requests
