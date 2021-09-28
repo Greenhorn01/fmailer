@@ -5,6 +5,7 @@ from os import system
 from time import sleep
 
 ## ORIGINAL SCRIPT BY GREEN HORN HACKER
+FOLLOW ME ON INSTAGRAM AND YOUTUBE(GREENHORNHACKER)
 
 try:
     import requests
@@ -39,7 +40,7 @@ logo = """
 \033[1;32m | | | (_| |   <  __/ \033[1;33m | |  | | (_| | | |  __/ |   
 \033[1;32m |_|  \__,_|_|\_\___| \033[1;33m |_|  |_|\__,_|_|_|\___|_|   
 
-\033[1;36m [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY GREEN HORN \033[1;31m(\033[1;33mTAHMID RAYAT\033[1;31m)
+\033[1;36m [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY GREEN HORN \033[1;31m(\033[1;33mGREEN HORN\033[1;31m)
 """
 
 system("clear")
